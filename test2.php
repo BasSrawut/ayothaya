@@ -8,5 +8,6 @@
 </head>
 <body>
     <input type="text" name="bas">
+    <button>ok</button>
 </body>
 </html>
